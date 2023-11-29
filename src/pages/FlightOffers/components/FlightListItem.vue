@@ -1,6 +1,6 @@
 <template>
 	<div class="tw-flex tw-shadow-md tw-px-3 tw-py-2">
-		<div class="tw-flex-grow tw-flex tw-flex-col md:tw-flex-col md:tw-items-center tw-gap-2 md:tw-gap-20">
+		<div class="tw-flex-grow tw-flex tw-flex-col md:tw-flex-row md:tw-items-center tw-gap-2 md:tw-gap-20">
 			<div class="tw-flex tw-gap-2 tw-items-end tw-text-dark-primary">
 				<div>
 					<h4 class="tw-leading-none">

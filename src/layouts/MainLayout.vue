@@ -7,7 +7,7 @@
 			<div class="tw-p-3">
 				<q-img
 					class="tw-w-40"
-					src="src/assets/logo.svg"
+					src="../assets/logo.svg"
 				/>
 			</div>
 		</q-header>
